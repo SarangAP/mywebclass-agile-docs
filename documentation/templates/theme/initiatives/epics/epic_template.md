@@ -29,7 +29,7 @@ Priority: High
 
 Title of the Epic: Google Analytics Integration
 
-Description: This epic focuses on integrating Google Analytics into the website to measure user behavior and improve the website's performance.
+Description: This epic focuses on integrating Google Analytics into the website to measure user behavior and improve the website's performance. By analyzing website behavior we can make changes to our templates, responsiveness, and make more popular sections easily accessible.
 
 Goals:
 
