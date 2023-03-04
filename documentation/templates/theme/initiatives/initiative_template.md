@@ -27,7 +27,7 @@ User profile management features - 2 months
 Privacy policy and terms of use documents - 3 months
 Constraints:
 
-Compliance with GDPR and other privacy regulations
+Compliance with GDPR (General Data Protection Regulation) that limits how personal data can be utilized and other privacy regulations, 
 Limited development resources
 Assumptions:
 
