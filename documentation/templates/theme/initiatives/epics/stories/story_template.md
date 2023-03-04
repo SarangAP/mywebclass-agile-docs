@@ -32,21 +32,21 @@ User Stories:
 
 As a user, I want to have the ability to track my progress and receive personalized recommendations, so that I can learn at my own pace and level.
 As a website owner, I want to provide users with a personalized learning experience, so that I can increase user satisfaction and retention.
-As a user, I want to receive feedback on my progress and areas for improvement, so that I can monitor my learning and growth.
+As a user, I want to receive feedback on my progress and areas for improvement, so that I can monitor my learning and growth. The website should be able to interpret my progress and actions and appropriately provide suggestions and resources that are personalized to me.
 Initiative 4: Google Analytics Integration
 
 User Stories:
 
 As a website owner, I want to track user behavior and website performance, so that I can make data-driven decisions to improve the website.
-As a user, I want my privacy to be protected and my data to be used ethically and transparently.
+As a user, I want my privacy to be protected and my data to be used ethically and transparently. The privacy policy should be easily accessible on the website and not obfuscated whatsoever.
 As a website owner, I want to identify areas for improvement in website design and content, so that I can enhance user experience and engagement.
 Initiative 5: GDPR Compliance
 
 User Stories:
 
-As a user, I want to be informed about how my data is being collected, used, and protected, so that I can make informed decisions about using the website.
+As a user, I want to be informed about how my data is being collected, used, and protected, so that I can make informed decisions about using the website. This can be done via incorporating a obvious privacy notice/policy which mentions cookies as well.
 As a website owner, I want to ensure compliance with GDPR and other privacy regulations, so that I can avoid legal and reputational risks. In order to do this, I will have a pop up notice when user's enter my website informing them about our privacy policy as well as how we use cookies.
-As a user, I want to have the ability to control my data and privacy settings, so that I can customize my experience on the website.
+As a user, I want to have the ability to control my data and privacy settings, so that I can customize my experience on the website. I should be able to disable cookies if I wish and remove my data off the website and whatever services it is connected to.
 
 
 
