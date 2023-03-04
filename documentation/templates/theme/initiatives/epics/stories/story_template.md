@@ -45,7 +45,7 @@ Initiative 5: GDPR Compliance
 User Stories:
 
 As a user, I want to be informed about how my data is being collected, used, and protected, so that I can make informed decisions about using the website.
-As a website owner, I want to ensure compliance with GDPR and other privacy regulations, so that I can avoid legal and reputational risks.
+As a website owner, I want to ensure compliance with GDPR and other privacy regulations, so that I can avoid legal and reputational risks. In order to do this, I will have a pop up notice when user's enter my website informing them about our privacy policy as well as how we use cookies.
 As a user, I want to have the ability to control my data and privacy settings, so that I can customize my experience on the website.
 
 
